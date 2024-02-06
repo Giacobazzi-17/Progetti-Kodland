@@ -1,0 +1,36 @@
+body{
+    background-color: skyblue;
+}
+
+header{
+    padding: 20px 100px;
+    background-color:rgb(97, 194, 226) ;
+    border-radius: 30px;
+    border: 10px solid rgb(155, 236, 243);
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+}
+
+.title{
+    color:rgb(248, 165, 65);
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lemon', serif;
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+}
+
+a{
+    display: inline-block;
+    color:white;
+    background-color: rgb(248, 165, 65);
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 25px;
+    display: flex;
+    justify-content:flex-end;
+}
